@@ -1,0 +1,39 @@
+# Your presentation title
+title: 'ISMB/ECCB 2019'
+
+url:  http://127.0.0.1:4000
+
+pages_url: http://127.0.0.1:4000
+github_url: https://github.com/ratzeni/ismb_eccb_2019
+
+# The Reveal theme
+reveal_theme: white.css
+
+# The Reveal transition
+reveal_transition: convex
+
+# Path to the used theme (defaults to the Reveal.js standard theme path)
+reveal_theme_path: reveal.js/css/theme/
+
+# Additional custom CSS paths
+extra_css:
+
+# Embed Server-side speaker notes?
+reveal_notes_server: false
+
+# Additional reveal.js options
+reveal_options:
+
+# Additional reveal.js dependencies
+reveal_dependencies:
+
+# Reveal.js subdirectory
+reveal_path: reveal.js/
+
+# Don't change anything below
+markdown: redcarpet
+highlighter: rouge
+markdown_ext: ignoreme
+
+plugins:
+  - jekyll-octicons

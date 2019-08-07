@@ -1,0 +1,18 @@
+---
+layout: reveal
+title: not used. Use _config.yml!
+---
+
+<style type="text/css">
+  .reveal small {
+    text-align: justify;
+  }
+</style>
+
+{% for post in site.posts reversed %}
+<section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$" data-notes="^Note:">
+<script type="text/template">
+{{ post.content }}
+</script>
+</section>
+{% endfor %}

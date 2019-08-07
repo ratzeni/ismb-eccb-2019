@@ -1,10 +1,10 @@
 # Your presentation title
 title: 'ISMB/ECCB 2019'
 
-url: https://ratzeni.github.io/ismb_eccb_2019
+url: https://ratzeni.github.io/ismb-eccb-2019
 
-pages_url: https://ratzeni.github.io/ismb_eccb_2019
-github_url: https://github.com/ratzeni/ismb_eccb_2019
+pages_url: https://ratzeni.github.io/ismb-eccb-2019
+github_url: https://github.com/ratzeni/ismb-eccb-2019
 
 # The Reveal theme
 reveal_theme: white.css

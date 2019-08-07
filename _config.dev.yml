@@ -4,7 +4,7 @@ title: 'ISMB/ECCB 2019'
 url:  http://127.0.0.1:4000
 
 pages_url: http://127.0.0.1:4000
-github_url: https://github.com/ratzeni/ismb_eccb_2019
+github_url: https://github.com/ratzeni/ismb-eccb-2019
 
 # The Reveal theme
 reveal_theme: white.css
